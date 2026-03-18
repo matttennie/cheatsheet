@@ -30,8 +30,13 @@ cheatsheet --help       Show this help
 
 ## Bundled Sheets
 
+- `emacs` — Emacs shortcuts
+- `git` — Git commands
 - `kitty` — Kitty terminal shortcuts
 - `shell` — Bash/Zsh keyboard shortcuts
+- `tmux` — tmux sessions, windows, and panes
+- `top` — top process viewer
+- `vim` — Vim motions and commands
 
 ## Add Your Own
 
