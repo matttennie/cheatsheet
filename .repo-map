@@ -1,0 +1,9 @@
+cheatsheet.sh
+  CHEATSHEET_DIR  — config var (default: ~/.cheatsheets)
+  cheatsheet()    — shell function: --help, --new <name> <file>, <name>, (no args)
+
+install.sh
+  — copies sheets/ to $CHEATSHEET_DIR, adds source line to shell rc
+
+sheets/
+  emacs.md git.md kitty.md shell.md tmux.md top.md vim.md
