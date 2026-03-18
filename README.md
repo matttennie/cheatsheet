@@ -43,7 +43,7 @@ Or drop any `.md` file into `~/.cheatsheets/`.
 
 ## Author
 
-**Matt Tennie** — [@matttennie](https://github.com/matttennie)
+**Matthew Tennie** — [@matttennie](https://github.com/matttennie)
 
 ## License
 
